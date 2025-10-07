@@ -1,0 +1,15 @@
+C:\Users\Franco\source\repos\DineroEnC\bin\Debug\net8.0\DineroEnC.exe
+C:\Users\Franco\source\repos\DineroEnC\bin\Debug\net8.0\DineroEnC.deps.json
+C:\Users\Franco\source\repos\DineroEnC\bin\Debug\net8.0\DineroEnC.runtimeconfig.json
+C:\Users\Franco\source\repos\DineroEnC\bin\Debug\net8.0\DineroEnC.dll
+C:\Users\Franco\source\repos\DineroEnC\bin\Debug\net8.0\DineroEnC.pdb
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.AssemblyInfo.cs
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.sourcelink.json
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.dll
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\refint\DineroEnC.dll
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.pdb
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\DineroEnC.genruntimeconfig.cache
+C:\Users\Franco\source\repos\DineroEnC\obj\Debug\net8.0\ref\DineroEnC.dll
